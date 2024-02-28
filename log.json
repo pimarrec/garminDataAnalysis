@@ -1,0 +1,1 @@
+Unknown error:  HTTPSConnectionPool(host='connectapi.garmin.com', port=443): Max retries exceeded with url: /activity-service/activity/activityId/details?maxChartSize=4000&maxPolylineSize=8000 (Caused by ResponseError('too many 500 error responses'))
